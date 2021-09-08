@@ -1,0 +1,10 @@
+/home/ibis/Code/C#/RandomCalc/bin/Debug/netcoreapp3.1/RandomVariable.deps.json
+/home/ibis/Code/C#/RandomCalc/bin/Debug/netcoreapp3.1/RandomVariable.dll
+/home/ibis/Code/C#/RandomCalc/bin/Debug/netcoreapp3.1/RandomVariable.pdb
+/home/ibis/Code/C#/RandomCalc/obj/Debug/netcoreapp3.1/RandomVariable.csproj.AssemblyReference.cache
+/home/ibis/Code/C#/RandomCalc/obj/Debug/netcoreapp3.1/RandomVariable.GeneratedMSBuildEditorConfig.editorconfig
+/home/ibis/Code/C#/RandomCalc/obj/Debug/netcoreapp3.1/RandomVariable.AssemblyInfoInputs.cache
+/home/ibis/Code/C#/RandomCalc/obj/Debug/netcoreapp3.1/RandomVariable.AssemblyInfo.cs
+/home/ibis/Code/C#/RandomCalc/obj/Debug/netcoreapp3.1/RandomVariable.csproj.CoreCompileInputs.cache
+/home/ibis/Code/C#/RandomCalc/obj/Debug/netcoreapp3.1/RandomVariable.dll
+/home/ibis/Code/C#/RandomCalc/obj/Debug/netcoreapp3.1/RandomVariable.pdb
